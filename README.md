@@ -75,7 +75,7 @@ finance-tracker/
 │   ├── UIManager.js       # Gestion de l'interface utilisateur
 │   └── ChartManager.js    # Gestion des graphiques
 ├── public/
-│   └── vite.svg          # Icône Vite
+│   └── logo.svg          # Icône du site
 └── README.md             # Ce fichier
 ```
 
